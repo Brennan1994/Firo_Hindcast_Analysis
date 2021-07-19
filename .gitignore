@@ -13,6 +13,9 @@
 #Python Virtual Environment
 .venv/
 
+#visual studio code specific files
+.vscode/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
