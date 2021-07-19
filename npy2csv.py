@@ -15,6 +15,3 @@ for eachday in myEnsembleData:
 
 print("successfully saved all the data to csv's.")
 
-#Commented out because this doesnt work for the 3D array.
-#numpy.savetxt('Resources/syn_hcstLm.csv', myEnsembleData, delimiter=',')
-#print("saved data as .csv")
