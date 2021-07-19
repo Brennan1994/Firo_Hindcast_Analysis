@@ -1,4 +1,4 @@
-#Background. 
+#Background: synthetic ensemble forecast data was provided in .npy format, as an 3D array. This script creates a csv file for each day, with all traces.
 import numpy 
 
 #USER SETTINGS
