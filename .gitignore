@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-Resources/syn_hcstLm.csv
+Resources/syn_hcstLm*.csv
 #Python Virtual Environment
 .venv/
 
