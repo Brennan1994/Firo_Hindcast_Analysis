@@ -1,3 +1,4 @@
+#Purpose: Reads in ensemble forecast data from a .npy and plots a single defined day for QAQC
 import numpy
 import matplotlib.pyplot as plt
 
